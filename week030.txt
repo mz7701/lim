@@ -8,4 +8,5 @@ remove -v
 
 .gitignore 이해
 
-git -r --cash
+linux cat 명령어 
+
