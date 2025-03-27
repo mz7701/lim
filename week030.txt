@@ -7,3 +7,5 @@ git 명령어
 remove -v
 
 .gitignore 이해
+
+git -r --cash
